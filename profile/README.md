@@ -1,45 +1,45 @@
 # Base Symphony JS
 
-Base Symphony JS es una arquitectura monolítica moderna y robusta pensada como punto de partida para el desarrollo de proyectos empresariales a gran escala. Este proyecto incluye todos los módulos esenciales para lanzar una solución completa desde cero.
+Base Symphony JS is a modern and robust monolithic architecture designed as a starting point for the development of large-scale enterprise applications. This project includes all the essential modules needed to launch a complete solution from scratch.
 
-## ✨ Características principales
+## ✨ Key Features
 
-- 🔗 **Arquitectura integral**: Incluye backend (API), frontend web y aplicación móvil.
-- 🧱 **Base de datos SQL** ya estructurada y lista para producción.
-- 🔐 **Módulo de seguridad incorporado** con gestión de usuarios, roles y permisos.
-- 🧰 **Buenas prácticas de desarrollo** aplicadas desde el inicio.
-- ⚙️ **Modularidad** que facilita la escalabilidad y el mantenimiento del código.
-- 🚀 **Listo para producción**: solo necesitas personalizarlo según tu dominio de negocio.
+- 🔗 **Full-stack architecture**: Includes backend (API), web frontend, and mobile app.
+- 🧱 **Pre-configured SQL database** ready for production.
+- 🔐 **Built-in security module** with user, role, and permission management.
+- 🧰 **Best development practices** implemented from the start.
+- ⚙️ **Modular structure** for easy scalability and maintainability.
+- 🚀 **Production-ready**: just customize it to fit your business domain.
 
-## 📦 Estructura del proyecto
+## 📦 Project Structure
 
-- `base-symphony-js-api-sql`: API REST en TypeScript.
-- `base-symphony-js-db-sql`: Estructura y scripts de base de datos.
-- `base-symphony-js-web-admin`: Panel de administración web.
-- `base-symphony-js-app-admin`: App móvil en TypeScript.
-- `base-symphony-js-db-sql-go-into-production`: Scripts específicos para entornos productivos.
+- `base-symphony-js-api-sql`: REST API in TypeScript.
+- `base-symphony-js-db-sql`: Database structure and scripts.
+- `base-symphony-js-web-admin`: Web admin panel.
+- `base-symphony-js-app-admin`: Mobile admin app in TypeScript.
+- `base-symphony-js-db-sql-go-into-production`: Production-ready database scripts.
 
-## 🧠 Filosofía
+## 🧠 Philosophy
 
-Este proyecto nace con el objetivo de reducir los tiempos de desarrollo y estandarizar procesos en equipos técnicos. Ideal para startups, equipos de producto o empresas que deseen tener una base sólida, escalable y mantenible.
+This project was created to reduce development time and standardize processes across tech teams. It's ideal for startups, product teams, or companies seeking a solid, scalable, and maintainable foundation.
 
-## 🚧 ¿Para qué usarlo?
+## 🚧 Use Cases
 
-- Crear MVPs completos rápidamente.
-- Desarrollar productos SaaS.
-- Estandarizar múltiples proyectos dentro de una organización.
-- Capacitar equipos en buenas prácticas desde un entorno real.
+- Rapidly build complete MVPs.
+- Develop SaaS products.
+- Standardize multiple projects within an organization.
+- Train teams on best practices in a real-world setup.
 
-## 📝 Licencia
+## 📝 License
 
 The MIT License (MIT) © Base Symphony JS
 
-Copyright 2025 Luis Solano (https://www.linkedin.com/in/luis-fernando-solano/) (https://github.com/XxLuisFer15xX)
+Copyright 2025 Luis Solano  
+([LinkedIn](https://www.linkedin.com/in/luis-fernando-solano/))  
+([GitHub](https://github.com/XxLuisFer15xX))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
